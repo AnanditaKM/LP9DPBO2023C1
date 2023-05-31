@@ -11,3 +11,5 @@ Saya Anandita Kusumah M dengan nim 2101114 mengerjakan Latihan Praktikum 9 DPBO 
 - Jika mengklik button 'Details' masuk ke halaman yang berisikan detail hunian.
 - klik "x" untuk menutup halaman detail.
 - Klik button 'Exit' untuk keluar dari program.
+
+![bandicam 2023-05-31 20-53-00-474](https://github.com/AnanditaKM/LP9DPBO2023C1/assets/100897554/ca896708-8588-4f64-9b6d-651adb6f594b)
